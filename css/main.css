@@ -1,0 +1,36 @@
+
+body{
+    background-color: #FFF5C2;
+}
+.caption{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: 35px;
+}
+
+button{
+    background-color: #092635;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 30px 50px;
+    font-size: 24px;
+}
+
+button:hover{
+    background-color: #9EC8B9;
+    color: #092635;
+}
+
+#author{
+    margin-block: 0;
+}
